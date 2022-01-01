@@ -1,0 +1,88 @@
+E:\alpha\al-fatima saloon\bin\ApplicationInsights.config
+E:\alpha\al-fatima saloon\bin\al-fatima saloon.dll.config
+E:\alpha\al-fatima saloon\bin\al-fatima saloon.dll
+E:\alpha\al-fatima saloon\bin\al-fatima saloon.pdb
+E:\alpha\al-fatima saloon\bin\roslyn\csc.exe
+E:\alpha\al-fatima saloon\bin\roslyn\csc.exe.config
+E:\alpha\al-fatima saloon\bin\roslyn\csc.rsp
+E:\alpha\al-fatima saloon\bin\roslyn\csi.exe
+E:\alpha\al-fatima saloon\bin\roslyn\csi.exe.config
+E:\alpha\al-fatima saloon\bin\roslyn\csi.rsp
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\alpha\al-fatima saloon\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.AppContext.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Collections.Immutable.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Console.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Diagnostics.Process.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.IO.Compression.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.IO.FileSystem.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.IO.Pipes.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Reflection.Metadata.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.AccessControl.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.Claims.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Security.Principal.Windows.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Threading.Thread.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.ValueTuple.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Xml.XmlDocument.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Xml.XPath.dll
+E:\alpha\al-fatima saloon\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\alpha\al-fatima saloon\bin\roslyn\vbc.exe
+E:\alpha\al-fatima saloon\bin\roslyn\vbc.exe.config
+E:\alpha\al-fatima saloon\bin\roslyn\vbc.rsp
+E:\alpha\al-fatima saloon\bin\roslyn\VBCSCompiler.exe
+E:\alpha\al-fatima saloon\bin\roslyn\VBCSCompiler.exe.config
+E:\alpha\al-fatima saloon\bin\Antlr3.Runtime.dll
+E:\alpha\al-fatima saloon\bin\AspNet.ScriptManager.bootstrap.dll
+E:\alpha\al-fatima saloon\bin\AspNet.ScriptManager.jQuery.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.Agent.Intercept.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.DependencyCollector.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.Web.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.WindowsServer.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.ApplicationInsights.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.ScriptManager.WebForms.dll
+E:\alpha\al-fatima saloon\bin\Microsoft.Web.Infrastructure.dll
+E:\alpha\al-fatima saloon\bin\Newtonsoft.Json.dll
+E:\alpha\al-fatima saloon\bin\System.Diagnostics.DiagnosticSource.dll
+E:\alpha\al-fatima saloon\bin\System.Web.Optimization.dll
+E:\alpha\al-fatima saloon\bin\WebGrease.dll
+E:\alpha\al-fatima saloon\bin\System.Web.Optimization.xml
+E:\alpha\al-fatima saloon\bin\Newtonsoft.Json.xml
+E:\alpha\al-fatima saloon\bin\Antlr3.Runtime.pdb
+E:\alpha\al-fatima saloon\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\alpha\al-fatima saloon\bin\System.Diagnostics.DiagnosticSource.xml
+E:\alpha\al-fatima saloon\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.DependencyCollector.xml
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.WindowsServer.xml
+E:\alpha\al-fatima saloon\bin\Microsoft.AI.Web.xml
+E:\alpha\al-fatima saloon\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\alpha\al-fatima saloon\obj\Release\al-fatima saloon.csprojAssemblyReference.cache
+E:\alpha\al-fatima saloon\obj\Release\al-fatima saloon.csproj.CoreCompileInputs.cache
+E:\alpha\al-fatima saloon\obj\Release\al-fatima saloon.csproj.CopyComplete
+E:\alpha\al-fatima saloon\obj\Release\al-fatima saloon.dll
+E:\alpha\al-fatima saloon\obj\Release\al-fatima saloon.pdb

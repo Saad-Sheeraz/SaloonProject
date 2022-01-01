@@ -1,0 +1,30 @@
+﻿body {
+    text-align: center;
+}
+div#Main1 {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+   
+    min-width: 80%;
+    text-align:left;  
+    font-family:'Book Antiqua';
+    font-size: 25px;
+    color:gray;
+ 
+}
+gird
+{
+   border-collapse:collapse;
+   
+}
+grid td {
+    text-align: left;
+    padding:10px;
+    font-size:1em;
+}
+grid th{
+    padding:4px 2px;
+    color:#707083;
+    text-shadow:1px 1px 0px #b200ff;
+}
